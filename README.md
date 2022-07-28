@@ -18,8 +18,8 @@ Python, JavaScript
 DATABASE:
 Google Firebase Real time database
 
-FOR AUTOMATIC SMS: 
-Create an account in Calendly and embed into the website.
+FOR AUTOMATIC SMS AND EMAIL: 
+Created an account in Calendly and embedded into the website.
 # ABOUT OUR CHATBOT:
 Our chatbot was programmed in Python and we have used Flask as our web framework. The source code for the chatbot along with other files are also uploaded in our .rar file / Git hub link. 
 Requirements: 
