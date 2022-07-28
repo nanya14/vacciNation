@@ -1,0 +1,2 @@
+# vacciNation
+Took up the entire ownership of building a ChatBot using Python and Flask which was a part of a dynamic web application that stores patients' information in its database, schedules appointments for vaccination and notifies the user through Email and SMS. Google Firebase was used as database. Calendly application was used to send SMS and Email notifications; PythonAnywhere was used to publish the ChatBot.
