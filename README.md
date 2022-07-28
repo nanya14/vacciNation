@@ -1,5 +1,4 @@
 # vacciNation- Vaccination Reminders Web Application with Python ChatBot
-# vaccineBot
 VacciNATION is an application based alert system for on-time immunization of children especially those belonging to vulnerable groups in Tamilnadu. Our main goal is to help raise awareness about vaccines and immunization process to everyone especially the vulnerable groups of people unaware of the consequences of un immunization.  Usual practice for the immunization is the immunization card provided by the hospital. Our solution takes it a bit further by alerting the parent(s)/guardian when a baby/child needs to be vaccinated. The hospital staff can inform the parent(s)/guardian via emails and SMS. 
 # GITHUB LINK 
 https://github.com/nanya14/vacciNation.git
